@@ -1,4 +1,3 @@
-#!/urs/bin/env python3
 """Collect sockstat data (currently only FRAG:)"""
 import collectd
 
